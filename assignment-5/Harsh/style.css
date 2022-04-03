@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(0, 6, 10);
+    line-height: 1.6;
+    background-image: url('mountain.jpg');
+    background-size: cover;
+    padding: 20px 30px 50px 30px;
+    align-items:center ;
+    }
+    p{
+     font-style: italic;
+    }
+    a{
+    color: aliceblue;
+    font-style:oblique;
+    font-weight: bold;
+    border-radius:10px;
+        }
